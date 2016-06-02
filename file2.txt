@@ -1,6 +1,12 @@
 file2
 version 3
 
+
 this is from master branch
 
 now this is from feature 2
+=======
+
+here it is from gittestclone
+
+both added
