@@ -1,7 +1,7 @@
 #sum.py
 def add_two_numbers(a, b):
 	# v6
-	addition = 0 + b
+	addition = a + b
 	return addition
 
 if __name__ == '__main__':
